@@ -1,0 +1,20 @@
+{
+  "mol": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-molbackend-mol-222028-authRole",
+      "UnauthRoleArn": "arn:aws:iam::906350433209:role/amplify-molbackend-mol-222028-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::906350433209:role/amplify-molbackend-mol-222028-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-molbackend-mol-222028-deployment",
+      "UnauthRoleName": "amplify-molbackend-mol-222028-unauthRole",
+      "StackName": "amplify-molbackend-mol-222028",
+      "StackId": "arn:aws:cloudformation:eu-central-1:906350433209:stack/amplify-molbackend-mol-222028/f8da8cd0-48ac-11ec-8602-022985d52bd0",
+      "AmplifyAppId": "d2z27gmruqmbzq"
+    },
+    "categories": {
+      "auth": {
+        "molbackend21547bac": {}
+      }
+    }
+  }
+}
